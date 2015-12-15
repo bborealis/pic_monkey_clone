@@ -43,3 +43,36 @@ img {
     }
   }
 }
+
+#banner {
+  #logo {
+    background : url(../img/sprites.png) 0 -180px;
+    width : 200px;
+    height: 60px;
+  }
+  ul {
+    list-style-type: none;
+    margin : 0;
+    padding : 0;
+    width : 100%;
+  }
+  li {
+    float : left;
+    padding : 5px;
+    a {
+      display : block;
+      text-align : center;
+    }
+  }
+  button {
+    float : right;
+    background-color : #7fb2bd;
+    border-radius : 3px;
+    height : 26px;
+    color : #ffffff;
+    line-height : 26px;
+    font-weight : bold;
+    padding: 0 8px;
+    margin-bottom : 10px;
+  }
+}

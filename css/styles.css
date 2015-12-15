@@ -74,5 +74,30 @@ img {
 
   .column-12 {
     width: 100%; } }
+#banner #logo {
+  background: url(../img/sprites.png) 0 -180px;
+  width: 200px;
+  height: 60px; }
+#banner ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 100%; }
+#banner li {
+  float: left;
+  padding: 5px; }
+  #banner li a {
+    display: block;
+    text-align: center; }
+#banner button {
+  float: right;
+  background-color: #7fb2bd;
+  border-radius: 3px;
+  height: 26px;
+  color: #ffffff;
+  line-height: 26px;
+  font-weight: bold;
+  padding: 0 8px;
+  margin-bottom: 10px; }
 
 /*# sourceMappingURL=styles.css.map */

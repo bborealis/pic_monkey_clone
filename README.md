@@ -1,11 +1,11 @@
-# _Grid with Sass_
+# _Pic Monkey Clone_
 ##### _12/14/2015_
 
 #### By Brian Borealis
 
 ## Description
 
-_A custom grid created with Sass._
+_A clone using a custom grid created with Sass._
 
 ## Site Setup
 
